@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="cell_margin">16dp</dimen>
+    <dimen name="grid_margin">4dp</dimen>
+    <dimen name="card_height">64dp</dimen>
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_press_translation_z">9dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_size_half">-40dp</dimen>
+    <dimen name="fab_size_frame">112dp</dimen>
+    <dimen name="fab_size_small">40dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+</resources>
